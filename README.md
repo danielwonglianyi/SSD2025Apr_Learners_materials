@@ -1,4 +1,4 @@
-# Backend Development Practicals Repository
+# Server-Side Development Practicals Repository
 
 This is the GitHub repository for all practicals to be completed as part of the **Server-Side Development** module.
 
